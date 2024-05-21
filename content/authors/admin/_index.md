@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 郑阳
+title: 郑阳(Yang Zheng)
 
 # Name pronunciation (optional)
-name_pronunciation: Yang Zheng
+# name_pronunciation: Yang Zheng
 
 # Full name (for SEO)
 first_name: Yang
@@ -20,12 +20,18 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Assitant Professor
+role: 助理研究员(Assitant Researcher)
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Key Laboratory of Cyberspace Security Defense, Institute of Information Engineering, Chinese Academy of Sciences
+  - name: Chinese Academy of Sciences
+    url: http://www.cas.cn
+affiliations:
+  - name: Key Laboratory of Cyberspace Security Defense
     url: http://www.iie.ac.cn
+  - name: Institute of Information Engineering
+    url: http://www.iie.ac.cn
+
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
