@@ -24,13 +24,15 @@ role: 助理研究员(Assitant Researcher)
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Chinese Academy of Sciences
+  - name: 中国科学院(Chinese Academy of Sciences)
     url: http://www.cas.cn
-affiliations:
-  - name: Key Laboratory of Cyberspace Security Defense
-    url: http://www.iie.ac.cn
-  - name: Institute of Information Engineering
-    url: http://www.iie.ac.cn
+    affiliations:
+      - name: 信息工程研究所(Institute of Information Engineering)
+        url: http://www.iie.ac.cn
+        subaffiliations:
+          - name: 网络空间安全防御重点实验室(Key Laboratory of Cyberspace Security Defense)
+            url: http://www.iie.ac.cn
+  
 
 
 # Social network links

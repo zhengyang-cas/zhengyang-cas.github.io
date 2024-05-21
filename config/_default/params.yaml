@@ -35,7 +35,7 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "Your Name"
+      text: "中国科学院(Chinese Academy of Sciences)"
 
 # Site footer
 footer:
