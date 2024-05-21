@@ -73,9 +73,9 @@ education:
       - Database systems
       
 work:
-  - position: Assitant Professor
+  - position: Assitant Researcher, Engineer
     company_name: Institute of Information Engineering, Chinese Academy of Sciences
-    company_url: ''
+    company_url: http://www.iie.ac.cn
     company_logo: ''
     date_start: 2019-10-31
     date_end: ''
@@ -84,12 +84,12 @@ work:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
+  - position: Intern Researcher, Assitant Engineer
+    company_name: Institute of Information Engineering, Chinese Academy of Sciences
+    company_url: http://www.iie.ac.cn
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2017-07-03
+    date_end: 2019-10-30
     summary: |
       Responsibilities include:
       - Migrated infrastructure to a new data center
