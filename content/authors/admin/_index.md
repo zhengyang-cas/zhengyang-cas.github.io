@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 郑阳(Yang Zheng)
+title: Yang Zheng
 
 # Name pronunciation (optional)
 # name_pronunciation: Yang Zheng
@@ -10,8 +10,8 @@ first_name: Yang
 last_name: Zheng
 
 # Status emoji
-status:
-  icon: ☕️
+# status:
+#   icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,18 +20,17 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: 助理研究员(Assitant Researcher)
+role: Assitant Professor
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: 中国科学院(Chinese Academy of Sciences)
+  - name: Chinese Academy of Sciences
     url: http://www.cas.cn
-    affiliations:
-      - name: 信息工程研究所(Institute of Information Engineering)
-        url: http://www.iie.ac.cn
-        subaffiliations:
-          - name: 网络空间安全防御重点实验室(Key Laboratory of Cyberspace Security Defense)
-            url: http://www.iie.ac.cn
+affiliations:
+  - name: Institute of Information Engineering
+    url: http://www.iie.ac.cn
+  - name: Key Laboratory of Cyberspace Security Defense
+    url: http://www.iie.ac.cn
   
 
 
