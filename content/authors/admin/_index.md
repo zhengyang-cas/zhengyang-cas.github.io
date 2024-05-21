@@ -38,18 +38,18 @@ affiliations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:zhengyang@iie.ac.cn'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+  # - icon: brands/x
+  #   url: https://twitter.com/GetResearchDev
+  # - icon: brands/instagram
+  #   url: https://www.instagram.com/
+  # - icon: brands/github
+  #   url: https://github.com/gcushen
+  # - icon: brands/linkedin
+  #   url: https://www.linkedin.com/
+  # - icon: academicons/google-scholar
+  #   url: https://scholar.google.com/
   - icon: academicons/orcid
     url: https://orcid.org/
 
@@ -64,23 +64,34 @@ education:
     date_start: 2014-09-01
     date_end: 2017-06-30
     summary: |
-      Development of database systems and recommendation systems, and thesis on key technologies for Point of Interest Recommendation on Social Media. Supervised by [Prof Hong Chen](http://info.ruc.edu.cn/jsky/szdw/ajxjgcx/jsjkxyjsx1/js2/418462431bfb4a8280359068cb470e88.htm) and [Prof Cuiping Li](http://info.ruc.edu.cn/jsky/szdw/ajxjgcx/jsjkxyjsx1/js2/aebd5e3b1cfa45f185229034e905ed57.htm). 
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+      Thesis on key technologies for Point of Interest Recommendation on Social Media. Supervised by Prof. Hong Chen (http://info.ruc.edu.cn/jsky/szdw/ajxjgcx/jsjkxyjsx1/js2/418462431bfb4a8280359068cb470e88.htm) and Prof Cuiping Li (http://info.ruc.edu.cn/jsky/szdw/ajxjgcx/jsjkxyjsx1/js2/aebd5e3b1cfa45f185229034e905ed57.htm). 
+
+      Courses included:
+      - Impelementation of Database systems
+      - Distributed Systems
+      - Data Mining
+      - Data Science and Technology
+    # button:
+    #   text: 'Read Thesis'
+    #   url: 'https://example.com'
   - area: BSc Software Engineering
-    institution: Tiangong University (Tianjin Polytechnic University)
+    institution: Tiangong University
     date_start: 2010-09-01
     date_end: 2024-06-30
     summary: |
       GPA: 3.8/4.0
       
       Courses included:
+      - C Programming
+      - Java Programming
+      - Data Structure
+      - Computer Architecture
+      - Operating Systems
       - Software Engineering
-      - Database systems
+      - Basics of Database systems
       
 work:
-  - position: Assitant Researcher, Engineer
+  - position: Assitant Professor, Engineer
     company_name: Institute of Information Engineering, Chinese Academy of Sciences
     company_url: http://www.iie.ac.cn
     company_logo: ''
@@ -91,7 +102,7 @@ work:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Intern Researcher, Assitant Engineer
+  - position: Intern Professor, Assitant Engineer
     company_name: Institute of Information Engineering, Chinese Academy of Sciences
     company_url: http://www.iie.ac.cn
     company_logo: ''
