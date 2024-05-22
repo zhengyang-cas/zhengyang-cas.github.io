@@ -59,3 +59,6 @@ features:
     enable: false
   privacy_pack:
     enable: false
+
+params:
+  custom_css: ["css/custom.css"]  # Custom CSS file path
