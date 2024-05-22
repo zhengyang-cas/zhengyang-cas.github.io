@@ -12,7 +12,7 @@ authors:
 - Yanfei Hu
 - Dan Meng
 date: -03-01
-publishDate: '2024-05-22T14:06:31.331494Z'
+publishDate: '2023-05-22T14:06:31.331494Z'
 publication_types:
 - article-journal
 publication: '*IEEE Transactions on Dependable and Secure Computing (TDSC), 2023.
