@@ -35,7 +35,8 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "Chinese Academy of Sciences"
+      image: "images/logo.png"  # 引用 logo 图片的路径
+      alt: "Chinese Academy of Sciences"  # 替换文本以防图片加载失败
 
 # Site footer
 footer:
