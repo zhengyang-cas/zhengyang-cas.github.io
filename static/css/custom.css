@@ -1,4 +1,0 @@
-/* 缩小 logo 图片 */
-#site-header .logo img {
-    max-height: 10px; /* 设置最大高度 */
-}
