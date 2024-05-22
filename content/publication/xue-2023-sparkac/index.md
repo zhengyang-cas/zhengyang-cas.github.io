@@ -11,8 +11,6 @@ authors:
 - Yang Zheng
 - Yanfei Hu
 - Dan Meng
-date: -03-01
-publishDate: '2024-05-22T07:57:39.799967Z'
 publication_types:
 - article-journal
 publication: '*IEEE Transactions on Dependable and Secure Computing (TDSC), 2023.
