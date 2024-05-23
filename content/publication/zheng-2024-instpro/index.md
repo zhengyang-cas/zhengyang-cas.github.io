@@ -8,13 +8,13 @@ authors:
 - Yanna Wu
 - Boyang Zhang
 - Dan Meng
-date: '2024-05-22T14:06:31.322434Z'
-publishDate: '2024-05-22T14:06:31.322434Z'
 publication_types:
 - article-journal
 publication: '*IEEE Transactions on Dependable and Secure Computing.
   (Under review, CCF-A)*'
 publication_short: "IEEE TDSC"
+date: '2024-05-22T14:06:31.322434Z'
+publishDate: '2024-05-22T14:06:31.322434Z'
 abstract: "Your abstract here."
 featured: false
 # url_pdf: "pdf/your-paper.pdf"
