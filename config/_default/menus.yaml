@@ -22,8 +22,7 @@ main:
   - name: Experience
     url: experience/
     weight: 20
-  - identifier: "contact"
-    name: Contact
+  - name: Contact
     url: /#contact
     weight: 21
   # - name: Projects
