@@ -20,7 +20,8 @@ sections:
 
         Diverging from conventional methodologies fixated on patching vulnerabilities, Active Architecture Security does not seek outright elimination of vulnerabilities but instead endeavors to render them impotent. Moreover, it diverges from the conventional "security door model" of perimeter defense and defense in depth, as well as the "safe box model" predicated on zero trust. Through proactive embedded defenses, it establishes a paradigm akin to a "hidden treasure model," with its focal point squarely centered on the avenues of attack.
         
-        Please reach out to collaborate 😃
+        Please reach out to collaborate！
+      width: wide
     design:
       columns: '1'
 
