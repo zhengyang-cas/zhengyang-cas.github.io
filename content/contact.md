@@ -1,25 +1,18 @@
 ---
-# Contact widget.
-widget: "contact"
-headless: true  # This file represents a page section.
-active: true
-weight: 130  # Order that this section appears.
+title: 'Contact'
+date: 2023-10-24
+type: landing
 
-title: "Contact"
-subtitle: ""
+design:
+  spacing: '5rem'
 
-# Automatically link email and phone?
+# Note: `username` refers to the user's folder name in `content/authors/`
+
 autolink: true
 
-# Email form provider
-#   0: Disable email form
-#   1: Netlify (requires that the site is hosted by Netlify)
-#   2: formspree.io
-email_form: 2
+contact:
+  email: 'your-email@example.com'
+  phone: '+1234567890'
+  address: 'City, Country'
 ---
 
-You can add your contact information here. For example:
-
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
-- **Phone:** +1234567890
-- **Address:** 1234 Street, City, Country
