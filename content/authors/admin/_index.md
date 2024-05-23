@@ -24,14 +24,10 @@ role: Assitant Professor, Engineer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Department of Computer Architecture Security
-    url: http://www.iie.ac.cn/jggk2020/zzjg2020/kybm2020/txjgaqyjs/
   - name: State Key Laboratory of Cyberspace Security Defense
     url: http://www.sklois.cn/
-  - name: Institute of Information Engineering
+  - name: Institute of Information Engineering, Chinese Academy of Sciences
     url: http://www.iie.ac.cn
-  - name: Chinese Academy of Sciences
-    url: http://www.cas.cn
 
 
   
@@ -113,12 +109,7 @@ work:
       - Project implementation
       - Development on key technologies
 
-contact:
-  email: 'zhengyang@iie.ac.cn'
-  wechat: 'z-verse'
-  homepage: 'https://y01zheng.github.io/yzheng.github.io/'
-  address: 'No. 19, Shucun Road, Haidian District, Beijing, P.R.China.'
-  postcode: '100085'
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -194,5 +185,5 @@ contact:
 
 ## About Me
 
-Yang Zheng received the BS degree from the Tiangong University in 2014 and the MS degree from Renmin University of China in 2017. He currently serves as an assistant professor in the Department of Computer Architecture Security and the State Key Laboratory of Cyberspace Security Defense at the Institute of Information Engineering, Chinese Academy of Sciences. His research interests includes big data security, cyberthreat analysis, and artificial intelligence security. His papers have been published in top-tier international journals and conferences such as TDSC and ACSAC. He has participated in the implementation of several national and provincial-level projects and has obtained more than 10 patents.
+Yang Zheng received the BS degree from the Tiangong University in 2014 and the MS degree from Renmin University of China in 2017. He currently serves as an assistant professor at the State Key Laboratory of Cyberspace Security Defense and the Institute of Information Engineering, Chinese Academy of Sciences. His research interests includes big data security, cyberthreat analysis, and artificial intelligence security. His papers have been published in top-tier international journals and conferences such as TDSC and ACSAC. He has participated in the implementation of several national and provincial-level projects and has obtained more than 10 patents.
 
