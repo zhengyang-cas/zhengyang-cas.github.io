@@ -59,7 +59,7 @@ profiles:
 interests:
   - Big Data Security
   - Cyberthreat Analysis
-  - AI Security
+  - Artificial Intelligence Security
 
 
 education:
@@ -187,5 +187,5 @@ work:
 
 ## About Me
 
-Yang Zheng received the BS degree from the Tiangong University in 2014 and the MS degree from Renmin University of China in 2017. He currently serves as an assistant professor in the Department of Computer Architecture Security and the State Key Laboratory of Cyberspace Security Defense at the Institute of Information Engineering, Chinese Academy of Sciences. His research interests includes big data security, cyberthreat analysis, and AI security. His papers have been published in top-tier international journals and conferences such as TDSC and ACSAC. He has been involved in the execution of numerous national and provincial-level projects and has obtained more than 10 patents.
+Yang Zheng received the BS degree from the Tiangong University in 2014 and the MS degree from Renmin University of China in 2017. He currently serves as an assistant professor in the Department of Computer Architecture Security and the State Key Laboratory of Cyberspace Security Defense at the Institute of Information Engineering, Chinese Academy of Sciences. His research interests includes big data security, cyberthreat analysis, and artificial intelligence security. His papers have been published in top-tier international journals and conferences such as TDSC and ACSAC. He has participated in the implementation of several national and provincial-level projects and has obtained more than 10 patents.
 

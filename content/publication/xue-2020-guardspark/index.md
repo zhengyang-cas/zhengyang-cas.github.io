@@ -17,4 +17,5 @@ publication_types:
 - paper-conference
 publication: '*Proceedings of the 36th Annual Computer Security Applications Conference
   (ACSAC), 2020. (Accepted, CCF-B)*'
+featured: true
 ---
