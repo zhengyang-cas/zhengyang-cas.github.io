@@ -4,7 +4,9 @@ date: 2023-10-24
 type: landing
 
 widget: 'contact'
+headless: true  # This file represents a page section.
 active: true
+weight: 130  # Order that this section appears.
 
 autolink: true
 
