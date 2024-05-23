@@ -11,16 +11,19 @@ design:
 sections:
   - block: collection
     content:
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
-      email: 'zhengyang@iie.ac.cn'
+      title: Selected Projects
+      text: 'Email: zhengyang@iie.ac.cn'
       wechat: 'z-verse'
       homepage: 'https://y01zheng.github.io/yzheng.github.io/'
       address: 'No. 19, Shucun Road, Haidian District, Beijing, P.R.China.'
       postcode: '100085'
+      filters:
+        folders:
+          - project1
     design:
       view: article-grid
       fill_image: false
-      columns: 1
+      columns: 3
 
 
 ---
