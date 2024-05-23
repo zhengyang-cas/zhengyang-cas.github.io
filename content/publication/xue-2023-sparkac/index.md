@@ -35,4 +35,5 @@ abstract: With the development of computing and communication technologies, an e
   very small (GuardSpark++) or medium (GuardDAG) performance overhead.
 tags:
 - sparks;access control;data analysis;data models;big data;optimization;hospitals
+featured: true
 ---

@@ -14,4 +14,5 @@ publication_types:
 - paper-conference
 publication: '*Proceedings of the 1st workshop on security-oriented designs of computer
   architectures and processors, 2018. (Accepted, IIE-C)*'
+doi: https://doi.org/10.1145/3267494.3267495
 ---

@@ -15,4 +15,5 @@ publication_types:
 - paper-conference
 publication: '*International Conference on Web-Age Information Management (WAIM),
   2016. (Accepted, CCF-C)*'
+doi: https://doi.org/10.1007/s41019-017-0035-3
 ---
