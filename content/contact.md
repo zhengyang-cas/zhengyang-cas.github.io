@@ -12,10 +12,7 @@ sections:
   - block: collection
     content:
       title: Selected Projects
-      text:
-        - 'Email: zhengyang@iie.ac.cn'
-        - 'Phone: +1234567890'
-        - 'Address: 树村路19号, City, Country'
+      text: 'Email: zhengyang@iie.ac.cn\nWechat: z-verse'
         # - 'Email: zhengyang@iie.ac.cn'
         # - 'Wechat: z-verse'
         # - 'Homepage: https://y01zheng.github.io/yzheng.github.io/'
