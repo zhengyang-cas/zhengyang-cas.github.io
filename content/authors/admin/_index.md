@@ -113,6 +113,12 @@ work:
       - Project implementation
       - Development on key technologies
 
+contact:
+  email: 'zhengyang@iie.ac.cn'
+  wechat: 'z-verse'
+  homepage: 'https://y01zheng.github.io/yzheng.github.io/'
+  address: 'No. 19, Shucun Road, Haidian District, Beijing, P.R.China.'
+  postcode: '100085'
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
