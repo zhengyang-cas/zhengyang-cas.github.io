@@ -12,13 +12,13 @@ authors:
 - Yanfei Hu
 - Dan Meng
 date: -03-01
-publishDate: '2023-05-22T14:06:31.331494Z'
+publishDate: '2022-05-22T14:06:31.331494Z'
 publication_types:
 - article-journal
-publication: '*IEEE Transactions on Dependable and Secure Computing (TDSC), 2023.
+publication: '*IEEE Transactions on Dependable and Secure Computing (TDSC), 2022.
   (Accepted, CCF-A)*'
 doi: 10.1109/TDSC.2022.3149544
-abstract: With the development of computing and communication technologies, an extremely
+abstract: 'With the development of computing and communication technologies, an extremely
   large amount of data has been collected, stored, utilized, and shared, while new
   security and privacy challenges arise. Existing access control mechanisms provided
   by big data platforms have limitations in granularity and expressiveness. In this
@@ -32,8 +32,6 @@ abstract: With the development of computing and communication technologies, an e
   data access control in Spark core. Finally, we evaluate GuardSpark++ and GuardDAG
   with multiple data sources, applications, and data analytics engines. Experimental
   results show that SparkAC provides effective access control functionalities with
-  very small (GuardSpark++) or medium (GuardDAG) performance overhead.
-tags:
-- sparks;access control;data analysis;data models;big data;optimization;hospitals
+  very small (GuardSpark++) or medium (GuardDAG) performance overhead.'
 featured: true
 ---
