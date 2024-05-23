@@ -12,12 +12,15 @@ sections:
   - block: collection
     content:
       title: Selected Projects
-      text: 
+      text:
         - 'Email: zhengyang@iie.ac.cn'
-        - 'Wechat: z-verse'
-        - 'Homepage: https://y01zheng.github.io/yzheng.github.io/'
-        - 'Address: No. 19, Shucun Road, Haidian District, Beijing, P.R.China.'
-        - 'Postcode: 100085'
+        - 'Phone: +1234567890'
+        - 'Address: 树村路19号, City, Country'
+        # - 'Email: zhengyang@iie.ac.cn'
+        # - 'Wechat: z-verse'
+        # - 'Homepage: https://y01zheng.github.io/yzheng.github.io/'
+        # - 'Address: No. 19, Shucun Road, Haidian District, Beijing, P.R.China.'
+        # - 'Postcode: 100085'
       filters:
         folders:
           - project1
