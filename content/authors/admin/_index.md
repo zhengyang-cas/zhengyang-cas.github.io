@@ -53,6 +53,7 @@ profiles:
     url: https://orcid.org/0009-0006-2424-6410
 
 interests:
+  - Active Architecture Security
   - Big Data Security
   - Cyberthreat Analysis
   - Artificial Intelligence Security
@@ -185,5 +186,5 @@ work:
 
 ## About Me
 
-Yang Zheng received the BS degree from the Tiangong University in 2014 and the MS degree from Renmin University of China in 2017. He currently serves as an assistant professor at the State Key Laboratory of Cyberspace Security Defense and the Institute of Information Engineering, Chinese Academy of Sciences. His research interests includes big data security, cyberthreat analysis, and artificial intelligence security. His papers have been published in top-tier international journals and conferences such as TDSC and ACSAC. He has participated in the implementation of several national and provincial-level projects and has obtained more than 10 patents.
+Yang Zheng received the BS degree from the Tiangong University in 2014 and the MS degree from Renmin University of China in 2017. He currently serves as an assistant professor at the State Key Laboratory of Cyberspace Security Defense and the Institute of Information Engineering, Chinese Academy of Sciences. His research interests includes active architecture security, big data security, cyberthreat analysis, and artificial intelligence security. His papers have been published in top-tier international journals and conferences such as TDSC and ACSAC. He has participated in the implementation of several national and provincial-level projects and has obtained more than 10 patents.
 
