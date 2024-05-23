@@ -113,6 +113,7 @@ work:
       - Project implementation
       - Development on key technologies
 
+
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 # skills:
