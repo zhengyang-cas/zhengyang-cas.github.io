@@ -54,7 +54,7 @@ profiles:
   # - icon: academicons/google-scholar
   #   url: https://scholar.google.com/
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0009-0006-2424-6410
 
 interests:
   - Big Data Security
