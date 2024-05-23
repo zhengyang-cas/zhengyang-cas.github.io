@@ -3,12 +3,23 @@ title: 'Contact'
 date: 2023-10-24
 type: landing
 
-widget: 'contact'
-headless: true  # This file represents a page section.
-active: true
-weight: 130  # Order that this section appears.
+design:
+  # Section spacing
+  spacing: '5rem'
 
-autolink: true
+# Page sections
+sections:
+  - block: collection
+    content:
+      title: Selected Projects
+      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      filters:
+        folders:
+          - project
+    design:
+      view: article-grid
+      fill_image: false
+      columns: 3
 
 
 ---
